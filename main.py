@@ -6,3 +6,7 @@ if __name__ == '__main__':
         logger.error(f"Extract: uncaught exception in main: {traceback.format_exc()}")
 
 print('main_fix1 message1')
+
+
+def func1:
+	print('main_fix1 added func1')
