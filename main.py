@@ -9,3 +9,7 @@ if __name__ == '__main__':
 print('master message1')
 
 
+
+
+def func2:
+	print('master added func2')
